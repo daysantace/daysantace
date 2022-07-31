@@ -1,7 +1,2 @@
-# @daysantace
-Hello! I am daysant.
-
-
-> Reddit: u/daysant1144 <br>
-> Discord: daysant#3591 <br>
-> Email: daysantace@gmail.com
+Developer of Ace Invaders, and webmaster of the Pacebi Alliance.
+Probably doing something, but I'll help if I can.
